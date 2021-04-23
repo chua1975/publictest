@@ -1,1 +1,0 @@
-<?php // Never Surender - Keep your mind
